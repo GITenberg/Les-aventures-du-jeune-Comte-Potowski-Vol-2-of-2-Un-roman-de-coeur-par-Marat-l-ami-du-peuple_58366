@@ -1,5 +1,8 @@
 _repo: Les-aventures-du-jeune-Comte-Potowski-Vol-2-of-2-Un-roman-de-coeur-par-Marat-l-ami-du-peuple_58366
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58366-h/images/cover.jpg
 creator:
   author:
     agent_name: Marat, Jean-Paul
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4290
     wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58366#Les-aventures-du-jeune-Comte-Potowski-Vol-2-of-2-Un-roman-de-coeur-par-Marat-l-ami-du-peuple
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
